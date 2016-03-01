@@ -6,7 +6,7 @@ tekstii
 
 more text
 
-oh yeah
+ou yeah
 
 Now something in the hope of a conflict
 
